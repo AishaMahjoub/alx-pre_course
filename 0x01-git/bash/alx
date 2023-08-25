@@ -1,2 +1,6 @@
 
-cat "ALX" 
+
+cat "ALX"
+
+!/bin/bash
+echo "School"  
